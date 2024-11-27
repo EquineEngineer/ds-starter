@@ -1,0 +1,9 @@
+uv pip install setuptools && \
+    uv pip install numpy && \
+    uv pip install pandas && \
+    uv pip install tqdm && \
+    uv pip install joblib && \
+    uv pip install category_encoders && \
+    uv pip install polars && \
+    uv pip install mrmr-selection && \
+    uv pip install -r requirements.txt --no-build-isolation
