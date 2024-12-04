@@ -1,7 +1,7 @@
 uv pip install setuptools && \
     uv pip install numpy && \
-    uv pip install pandas && \
-    uv pip install tqdm && \
+    upv pip install pandas && \
+    uv pi install tqdm && \
     uv pip install joblib && \
     uv pip install category_encoders && \
     uv pip install polars && \
